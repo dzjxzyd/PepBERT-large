@@ -1,9 +1,5 @@
 All the pretrained models under this repository has been uploaded to huggingface for accesible; the usage tutorial was provided at the README.md files under the hungging face repository, respectively.
-(PepBERT-large-UniParc)[https://huggingface.co/dzjxzyd/PepBERT-large-UniParc]
-(PepBERT-large-UniRef100)[https://huggingface.co/dzjxzyd/PepBERT-large-UniRef100]
-[PepBERT-large-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef100)
-(PepBERT-large-UniRef90)[https://huggingface.co/dzjxzyd/PepBERT-large-UniRef90]
-(PepBERT-large-UniRef50)[https://huggingface.co/dzjxzyd/PepBERT-large-UniRef50]
+[PepBERT-large-UniParc](https://huggingface.co/dzjxzyd/PepBERT-large-UniParc), [PepBERT-large-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef100), [PepBERT-large-UniRef90](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef90), [PepBERT-large-UniRef50](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef50)
 
 ### A example tutorial for usage in your custom peptide embeddings.
 ```
