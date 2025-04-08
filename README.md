@@ -1,3 +1,6 @@
+This is the official repository for the paper: Du, Z., Li, Y. PepBERT: Lightweight language models for bioactive peptide representation represenation.
+
+
 All pretrained models in this repository have been uploaded to Hugging Face for easy access. Usage tutorials are provided in the respective README.md files on each model’s Hugging Face page.
 
 You can access the models at the following links:
@@ -9,6 +12,8 @@ You can access the models at the following links:
 [PepBERT-large-UniRef90](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef90)
    
 [PepBERT-large-UniRef50](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef50)
+
+PepBERT-small was available at a different repository at https://github.com/dzjxzyd/PepBERT-small.
 
 ### A example tutorial for usage in your custom peptide embeddings.
 ```
